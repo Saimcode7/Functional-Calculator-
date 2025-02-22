@@ -1,1 +1,0 @@
-GamepadButton.onclick="display.value = ''";
